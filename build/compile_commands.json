@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/andrew/Repos/catastrophe-cpp/build",
+  "command": "/run/current-system/sw/bin/g++ -g -o CMakeFiles/catastrophe.dir/src/catastrophe.cxx.o -c /home/andrew/Repos/catastrophe-cpp/src/catastrophe.cxx",
+  "file": "/home/andrew/Repos/catastrophe-cpp/src/catastrophe.cxx",
+  "output": "CMakeFiles/catastrophe.dir/src/catastrophe.cxx.o"
+},
+{
+  "directory": "/home/andrew/Repos/catastrophe-cpp/build",
+  "command": "/run/current-system/sw/bin/g++ -g -o CMakeFiles/catastrophe.dir/src/html.cxx.o -c /home/andrew/Repos/catastrophe-cpp/src/html.cxx",
+  "file": "/home/andrew/Repos/catastrophe-cpp/src/html.cxx",
+  "output": "CMakeFiles/catastrophe.dir/src/html.cxx.o"
+}
+]

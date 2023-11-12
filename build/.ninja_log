@@ -1,0 +1,9 @@
+# ninja log v5
+0	17	1699801834589005774	CMakeFiles/catastrophe.dir/src/html.cxx.o	e5bbee4be705835c
+0	38	1699801849604910408	build.ninja	11868c93db1ca88c
+1	534	1699810440470406824	CMakeFiles/catastrophe.dir/src/catastrophe.cxx.o	d7bf693e72743bc1
+535	622	1699810440557406390	catastrophe	1d713770ef25353e
+1	550	1699810456939324779	CMakeFiles/catastrophe.dir/src/catastrophe.cxx.o	d7bf693e72743bc1
+550	645	1699810457032324316	catastrophe	1d713770ef25353e
+1	340	1699810887983159908	CMakeFiles/catastrophe.dir/src/html.cxx.o	e5bbee4be705835c
+1	319	1699810943577878331	CMakeFiles/catastrophe.dir/src/html.cxx.o	e5bbee4be705835c
